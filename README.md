@@ -1,5 +1,5 @@
-# AI-Pong
+# AI-Games
 
-Pong
+- Pong
 
 Created with AI
